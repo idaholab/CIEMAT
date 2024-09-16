@@ -10,7 +10,7 @@ CIEMAT operates through a systematic, multi-step process designed to deliver a t
 
 1. **Analysis of System Services**: A detailed examination of the operational services provided by the energy system.
 2. **Consequence-Focused Analysis**: This step guides the user through a CIE consequence analysis to assess potential impacts of system failures or cyber incidents in relation to organizational risk tolerances.
-3. **Cyber-Informed Engineering Mitigation Analysis**: The final step assists the user in conducting a CIE mitigation analysis, aiming to identify opportunities for mitigating risks at the microgrid site.
+3. **Cyber-Informed Engineering Mitigation Analysis**: The final step assists the user in conducting a CIE mitigation analysis, aiming to identify opportunities for mitigating cyber impacts at the microgrid site.
 
 ## Support
 
