@@ -4,6 +4,8 @@
 
 The Cyber-Informed Engineering Microgrid Analysis Tool (CIEMAT) was developed in collaboration with the U.S. Department of Energy’s Office of Cybersecurity, Energy Security, and Emergency Response (CESER). This tool is developed to enhance the security and resilience of microgrid installations by incorporating Cyber-Informed Engineering (CIE) principles into the deployment and management of Microgrid energy systems, with a current focus on battery energy storge systems (BESS) often utilized at microgrid sites.
 
+CIEBAT - Battery Energy Source Analysis [LINK](https://github.com/idaholab/CIEBAT)
+
 ## Systematic Approach
 
 CIEMAT operates through a systematic, multi-step process designed to deliver a thorough and utility-specific analysis:
